@@ -28,62 +28,47 @@ I specialize in **Apex development, Lightning Web Components, Field Service Ligh
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Salesforce
+### Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1797E1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-FFAA00?style=for-the-badge)
+![Aura](https://img.shields.io/badge/Aura%20Components-FFDD00?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge)
+![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00B3E6?style=for-the-badge)
+![Triggers](https://img.shields.io/badge/Triggers-0088CC?style=for-the-badge)
+![Validation Rules](https://img.shields.io/badge/Validation%20Rules-00C4CC?style=for-the-badge)
 
-- Apex
-- Lightning Web Components (LWC)
-- Aura Components
-- SOQL / SOSL
-- Flow Builder
-- Triggers
-- Validation Rules
-- Approval Processes
-- Profiles & Permission Sets
+### Cloud Platforms
+![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-FF9800?style=for-the-badge)
+![Service Cloud](https://img.shields.io/badge/Service%20Cloud-FF5722?style=for-the-badge)
+![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-9C27B0?style=for-the-badge)
+![FSL](https://img.shields.io/badge/Field%20Service%20Lightning-3F51B5?style=for-the-badge)
 
----
+### Programming
+![Apex](https://img.shields.io/badge/Apex-1797E1?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Cloud Platforms
+### Integrations
+![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge)
+![SOAP API](https://img.shields.io/badge/SOAP%20API-8BC34A?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-FF9800?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-2196F3?style=for-the-badge)
+![HTTP Callouts](https://img.shields.io/badge/HTTP%20Callouts-00BCD4?style=for-the-badge)
+![Named Credentials](https://img.shields.io/badge/Named%20Credentials-009688?style=for-the-badge)
 
-- Sales Cloud
-- Service Cloud
-- Experience Cloud
-- Field Service Lightning (FSL)
-
----
-
-## Programming
-
-- Apex
-- JavaScript
-- HTML
-- CSS
-
----
-
-## Integrations
-
-- REST APIs
-- SOAP APIs
-- JSON
-- XML
-- HTTP Callouts
-- Named Credentials
-
----
-
-## Tools
-
-- VS Code
-- Git
-- GitHub
-- Postman
-- Jira
-- Data Loader
-- Workbench
-- Salesforce CLI
-
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Data Loader](https://img.shields.io/badge/Data%20Loader-00BCD4?style=for-the-badge)
+![Workbench](https://img.shields.io/badge/Workbench-3F51B5?style=for-the-badge)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce%20CLI-1797E1?style=for-the-badge)
 ---
 
 # 🏆 Certifications
